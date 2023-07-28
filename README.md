@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Leont/path-finder.svg?branch=master)](https://travis-ci.org/Leont/path-finder)
+[![Actions Status](https://github.com/tbrowder/path-finder/actions/workflows/linux.yml/badge.svg)](https://github.com/tbrowder/path-finder/actions) [![Actions Status](https://github.com/tbrowder/path-finder/actions/workflows/macos.yml/badge.svg)](https://github.com/tbrowder/path-finder/actions) [![Actions Status](https://github.com/tbrowder/path-finder/actions/workflows/windows-spec.yml/badge.svg)](https://github.com/tbrowder/path-finder/actions)
 
 SYNOPSIS
 ========
