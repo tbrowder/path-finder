@@ -5,7 +5,6 @@
   "build-depends": [
   ],
   "depends": [
-    "File::Temp"
   ],
   "description": "Iterative, recursive file finder for Raku",
   "license": "Artistic-2.0",
