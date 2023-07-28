@@ -5,8 +5,9 @@
   "build-depends": [
   ],
   "depends": [
+    "File::Temp"
   ],
-  "description": "Iterative, recursive file finder for Perl 6",
+  "description": "Iterative, recursive file finder for Raku",
   "license": "Artistic-2.0",
   "name": "Path::Finder",
   "perl": "6.*",
