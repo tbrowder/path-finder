@@ -1,6 +1,4 @@
-use v6;
-
-unit class Path::Finder:ver<0.4.5> does Callable;
+unit class Path::Finder does Callable;
 
 has Callable:D @!rules is built;
 our enum Prune is export(:prune) <PruneInclusive PruneExclusive>;
